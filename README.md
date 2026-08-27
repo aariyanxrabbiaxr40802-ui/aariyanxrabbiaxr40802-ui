@@ -28,10 +28,6 @@ Playwright that exports listing data across sites, and a dedicated
 [BuzzKill](https://ishowdrip.com/projects), a free offline real-time audio
 cleaner and equalizer for Windows.
 
-**WordPress engineering** —
-[ServerTrack](https://ishowdrip.com/projects), a server-side Conversion API
-plugin for WordPress and WooCommerce covering Meta CAPI, Google Ads and TikTok.
-
 **Browser games in HTML5 Canvas** —
 [Space Dash](https://ishowdrip.com/projects),
 [Fairy Dash](https://ishowdrip.com/projects),
